@@ -58,10 +58,8 @@ Here are some of my database projects:
 - **Real-time Analytics Dashboard** - MongoDB aggregation pipelines
 
 ## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=votreusername&show_icons=true&theme=radical)
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=votrepseudo&show_icons=true&theme=dark)
-
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SalimM21&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=votreusername&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=votreusername&theme=dark)
