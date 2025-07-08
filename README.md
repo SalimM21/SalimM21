@@ -38,12 +38,6 @@ Here are some of my database projects:
 - **E-commerce Data Warehouse** - Star schema implementation with ETL processes
 - **Real-time Analytics Dashboard** - MongoDB aggregation pipelines
 
-## 📊 GitHub Stats
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SalimM21&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&theme=dark)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A2F7&width=435&lines=Database+Wizard+🧙‍♂️;data+Engineer+💾;Data+Architect+📊)
-
 ## 📊 GitHub Analytics
 
 <div align="center">
