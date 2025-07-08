@@ -43,9 +43,9 @@ Here are some of my database projects:
 <div align="center">
 
 <!-- Stats avec icônes et thème personnalisé -->
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=votrepseudo&show_icons=true&border=true&cache_seconds=3600)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=votrepseudo&show_icons=true&border=true&cache_seconds=3)
 <!-- Streak personnalisé -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&hide_border=true&cache_seconds=3600)
+![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&hide_border=true&cache_seconds=3)
 
 </div>
 
@@ -59,7 +59,7 @@ Here are some of my database projects:
 
 **Backend:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 **Cloud:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
