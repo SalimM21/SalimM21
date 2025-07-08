@@ -49,15 +49,15 @@ Here are some of my database projects:
 <div align="center">
 
 <!-- Stats avec icônes et thème personnalisé -->
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=votrepseudo&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117)
-
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=votrepseudo&show_icons=true&count_private=true&theme=radical&hide_border=true)
 <!-- Streak personnalisé -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&theme=radical&hide_border=true)
 
 </div>
 
 ## 🚀 Languages and Tools:
 <div align="center"> 
+  
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -74,4 +74,5 @@ Here are some of my database projects:
 **Tools:**  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
