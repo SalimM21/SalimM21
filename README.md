@@ -26,9 +26,9 @@ As a passionate Database Administrator and SQL Developer, I specialize in design
 
 - 🌱 I'm currently learning **Big Data technologies**
 - 💬 Ask me about **SQL optimization, database design, ETL processes**
-- 📫 How to reach me: [votre@email.com](mailto:votre@email.com)
+- 📫 How to reach me: [votre@email.com](salim.majide.officiel@gmail.com)
 - 📱 Connect with me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([votre-linkedin])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-majide-231319172/)
 
 ## 🚀 Languages and Tools:
 
