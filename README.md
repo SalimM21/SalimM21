@@ -62,3 +62,21 @@ Here are some of my database projects:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&theme=dark)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A2F7&width=435&lines=Database+Wizard+🧙‍♂️;data+Engineer+💾;Data+Architect+📊)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- Stats avec icônes et thème personnalisé -->
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=votrepseudo&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+<!-- Streak personnalisé -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&theme=radical&hide_border=true&background=0D1117)
+
+<!-- Langages les plus utilisés -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=votrepseudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+<!-- Graphique des contributions -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=votrepseudo&theme=github-compact&hide_border=true&area=true" width="100%">
+
+</div>
