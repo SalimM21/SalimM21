@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Greetings ✨, I'm [Votre Nom]  
+# Greetings ✨, I'm Salim MAJIDE 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A2F7&width=435&lines=Database+Wizard+🧙‍♂️;SQL+Specialist+💾;Data+Architect+📊)
 
 ## 🙋‍♂ About Me
