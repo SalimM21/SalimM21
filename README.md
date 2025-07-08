@@ -49,7 +49,7 @@ Here are some of my database projects:
 <div align="center">
 
 <!-- Stats avec icônes et thème personnalisé -->
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=votrepseudo&show_icons=true&count_private=true&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=votrepseudo&show_icons=true&count_private=true&border=true)
 <!-- Streak personnalisé -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&hide_border=true)
 
