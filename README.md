@@ -60,6 +60,8 @@ Here are some of my database projects:
 ## 📊 GitHub Stats
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SalimM21&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=votrepseudo&layout=compact&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=votreusername&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=votreusername&theme=dark)
