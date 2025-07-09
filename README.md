@@ -43,11 +43,9 @@ Here are some of my database projects:
 <div align="center">
 
 <!-- Stats avec icônes et thème personnalisé -->
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SalimM21&show_icons=true&border=true&cache_seconds=30)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SalimM21&show_icons=true&border=true&cache_seconds=3)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=salimM21&hide_border=true)
-<!-- Streak personnalisé -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&hide_border=true&cache_seconds=30)
 
 </div>
 
