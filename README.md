@@ -45,8 +45,6 @@ Here are some of my database projects:
 <!-- Stats avec icônes et thème personnalisé -->
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SalimM21&show_icons=true&border=true&cache_seconds=30)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VOTRE_PSEUDO_GITHUB&theme=dark&hide_border=true&date_format=j%20M&mode=weekly)](https://git.io/streak-stats)
-
 <!-- Streak personnalisé -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=votrepseudo&hide_border=true&cache_seconds=30)
 
