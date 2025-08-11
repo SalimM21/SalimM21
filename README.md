@@ -9,8 +9,6 @@
 # Greetings ✨, I'm Salim MAJIDE 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A2F7&width=435&lines=Database+Wizard+🧙‍♂️;SQL+Specialist+💾;Data+Architect+📊)
 
----
-
 ## 🙋‍♂ About Me
 
 **Data Enthusiast**  
@@ -51,8 +49,6 @@ Here are some of my database projects:
 | **Bib-Readers Project** | Library book tracking system | SQL, Flask |
 | **Filtrage-Emails Project** | Intelligent email spam/malware filtering system | Python, NLP, Scikit-learn |
 | **DiabetoWeb Project** | Doctor decision-support tool for diabetes risk | Django, ML, Pandas |
-
----
 
 ## 🛠 Capabilities
 
