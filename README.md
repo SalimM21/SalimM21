@@ -1,6 +1,9 @@
 <!--
 ## Hi there 👋
 **SalimM21/SalimM21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+As a passionate Database Administrator and SQL Developer, I specialize in designing robust database architectures, optimizing queries, and ensuring data integrity. With expertise in both relational and NoSQL databases, I'm dedicated to building efficient, scalable data solutions that power business intelligence and applications.
+
 - 🌱 I'm currently learning **Big Data technologies**
 - 💬 Ask me about **SQL optimization, database design, ETL processes**
 - 🤖 Concepteur de solutions digitales innovantes **combinant IA et expérience utilisateur**
@@ -12,8 +15,7 @@
 ## 🙋‍♂ About Me
 
 **Data Enthusiast**  
-
-As a passionate Database Administrator and SQL Developer, I specialize in designing robust database architectures, optimizing queries, and ensuring data integrity. With expertise in both relational and NoSQL databases, I'm dedicated to building efficient, scalable data solutions that power business intelligence and applications.
+As a Data Engineer and Database Specialist, I create robust and scalable data architectures, optimize queries, and ensure data integrity across large-scale systems. My expertise includes relational & NoSQL databases, real-time data pipelines with Apache Kafka, Big Data processing with Spark, and automated deployments in Kubernetes. I’ve developed intelligent solutions such as an email filtering system for secure communications and DiabetoWeb, a medical decision-support tool for diabetes risk assessment, while delivering efficient solutions for business intelligence and predictive analytics.
 
 ### 🔭 Currently Working On
 - ⚡ Optimized ETL pipeline with **Apache Spark** for real-time IoT analytics  
