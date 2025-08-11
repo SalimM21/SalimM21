@@ -15,7 +15,7 @@ As a passionate Database Administrator and SQL Developer, I specialize in design
 ## 🙋‍♂ About Me
 
 **Data Enthusiast**  
-As a Data Engineer and Database Specialist, I create robust and scalable data architectures, optimize queries, and ensure data integrity across large-scale systems. My expertise includes relational & NoSQL databases, real-time data pipelines with Apache Kafka, Big Data processing with Spark, and automated deployments in Kubernetes. I’ve developed intelligent solutions such as an email filtering system for secure communications and DiabetoWeb, a medical decision-support tool for diabetes risk assessment, while delivering efficient solutions for business intelligence and predictive analytics.
+As a Data Engineer, I create robust and scalable data architectures, optimize queries, and ensure data integrity across large-scale systems. My expertise includes relational & NoSQL databases, real-time data pipelines with Apache Kafka, Big Data processing with Spark, and automated deployments in Kubernetes. I’ve developed intelligent solutions such as an email filtering system for secure communications and DiabetoWeb, a medical decision-support tool for diabetes risk assessment, while delivering efficient solutions for business intelligence and predictive analytics.
 
 ### 🔭 Currently Working On
 - ⚡ Optimized ETL pipeline with **Apache Spark** for real-time IoT analytics  
