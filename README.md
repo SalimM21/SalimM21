@@ -54,6 +54,15 @@ Here are some of my database projects:
 
 ## 🛠 Capabilities
 
+| Domaine | Compétences & Technologies |
+|---------|---------------------------|
+| 💾 Database Design & Optimization | Relational & NoSQL schema design, query tuning, indexing, normalization |
+| 🔄 ETL & Data Processing | Apache Spark, Kafka, Airflow, data cleaning, data transformation, pipeline orchestration |
+| 🤖 Machine Learning & AI | NLP models, clustering, classification, predictive analytics (Random Forest, Logistic Regression) |
+| ⚙️ Automation & DevOps for Data | Kubernetes, Docker, CI/CD for scalable deployments |
+| 📊 Data Visualization & BI | Tableau, Power BI, dashboard creation, KPI monitoring |
+
+
 - 💾 **Database Design & Optimization** : Relational & NoSQL schema design, query tuning, indexing, normalization  
 - 🔄 **ETL & Data Processing** : Apache Spark, Kafka, Airflow, data cleaning, transformation, pipeline orchestration  
 - 🤖 **Machine Learning & AI** : NLP models, clustering, classification, predictive analytics (Random Forest, Logistic Regression)  
