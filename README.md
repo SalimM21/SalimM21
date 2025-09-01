@@ -42,6 +42,21 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 ## 📂 Projects Portfolio
 Here are some of my database projects:
 
+<div align="center">
+
+### **🚀 Mes Projets et Compétences en Data & IA**
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **ObesiTrack API** | REST API and WebSockets for real-time obesity tracking | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Big Data Geospatial Pipeline** | Real-time analysis of geospatial data using streaming and monitoring | ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![HBase](https://img.shields.io/badge/-HBase-7A1F0B?style=flat) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) |
+| **Filtrage-Emails** | Spam and malware detection system using NLP | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat) ![NLP](https://img.shields.io/badge/-NLP-FF6C37?style=flat) |
+| **DiabetoWeb** | Decision-support web app for diabetes risk assessment | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Data Science Projects (General)** | Data cleaning, EDA, modeling & visualization for multiple datasets | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-77AADD?style=flat) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat) ![Gradio](https://img.shields.io/badge/-Gradio-1CA9C9?style=flat) |
+
+</div>
+
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **Library Management System** | Complete SQL database design with stored procedures | ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat) |
