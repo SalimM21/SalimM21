@@ -57,99 +57,8 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 | **Web Chat Application (Java EE)** | Chat en ligne avec MVC, JSP et Spring Data JPA | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![JSP](https://img.shields.io/badge/-JSP-007396?style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/-SpringData-6DB33F?style=flat) ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat) |
 
 </div>
-## 🗂️ Stack Technique
-
-| Rôle | Technologies |
-|------|--------------|
-| **🔹 Data Engineer** | ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) |
-| **🔹 Data Scientist** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![NLP](https://img.shields.io/badge/-NLP-00BFAE?style=flat&logo=databricks&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat&logo=plotly&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FF6F00?style=flat&logo=python&logoColor=white) |
-| **🔹 Autres (Dev & Frameworks)** | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat&logo=angularjs&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white) ![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black) ![GlassFish](https://img.shields.io/badge/-GlassFish-FF9900?style=flat&logo=java&logoColor=white) ![WildFly](https://img.shields.io/badge/-WildFly-233A72?style=flat&logo=java&logoColor=white) |
-
-<div align="center">
-
-### **🚀 Mes Projets et Compétences en Data & IA**
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **ObesiTrack API** | REST API and WebSockets for real-time obesity tracking | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **Big Data Geospatial Pipeline** | Real-time analysis of geospatial data using streaming and monitoring | ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![HBase](https://img.shields.io/badge/-HBase-7A1F0B?style=flat) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) |
-| **Filtrage-Emails** | Spam and malware detection system using NLP | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat) ![NLP](https://img.shields.io/badge/-NLP-FF6C37?style=flat) |
-| **DiabetoWeb** | Decision-support web app for diabetes risk assessment | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
-| **Data Science Projects (General)** | Data cleaning, EDA, modeling & visualization for multiple datasets | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-77AADD?style=flat) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat) ![Gradio](https://img.shields.io/badge/-Gradio-1CA9C9?style=flat) |
-
-</div>
-
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Library Management System** | Complete SQL database design with stored procedures | ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat) |
-| **E-commerce Data Warehouse** | Star schema implementation with ETL processes | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![ETL](https://img.shields.io/badge/-ETL-FF6C37?style=flat) |
-| **Real-time Analytics Dashboard** | MongoDB aggregation pipelines | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **Kafka Pipeline in Big Data Environment** | Real-time data ingestion & processing | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) |
-| **Automating Big Data Apps Deployment in Kubernetes** | CI/CD automation for scalable apps | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
-| **Bib-Readers Project** | Library book tracking system | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) |
-| **Filtrage-Emails Project** | Intelligent email spam/malware filtering system | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-FF6C37?style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat) |
-| **DiabetoWeb Project** | Doctor decision-support tool for diabetes risk | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Library Management System** | Complete SQL database design with stored procedures | MySQL, SQL |
-| **E-commerce Data Warehouse** | Star schema implementation with ETL processes | PostgreSQL, ETL |
-| **Real-time Analytics Dashboard** | MongoDB aggregation pipelines | MongoDB |
-| **Kafka Pipeline in Big Data Environment** | Real-time data ingestion & processing | Kafka, Spark |
-| **Automating Big Data Apps Deployment in Kubernetes** | CI/CD automation for scalable apps | Kubernetes, Docker, Jenkins |
-| **Bib-Readers Project** | Library book tracking system | SQL, Flask |
-| **Filtrage-Emails Project** | Intelligent email spam/malware filtering system | Python, NLP, Scikit-learn |
-| **DiabetoWeb Project** | Doctor decision-support tool for diabetes risk | Django, ML, Pandas |
 
 ## 🛠 Capabilities
-
-| Domaine | Technologies & Outils |
-|---------|---------------------|
-| 💾 **Database Design & Optimization** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=black) |
-| 🔄 **ETL & Data Processing** | ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) |
-| 🤖 **Machine Learning & AI** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
-| ⚙️ **Automation & DevOps for Data** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-000000?style=flat) |
-| 📊 **Data Visualization & Front-end Data Apps** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat) ![Gradio](https://img.shields.io/badge/-Gradio-1CA9C9?style=flat) |
-
-
-### 💾 Database Design & Optimization
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-![NoSQL](https://img.shields.io/badge/-NoSQL-FF6C37?style=flat)
-
-### 🔄 ETL & Data Processing
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=Apache%20Spark&logoColor=white) 
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white) 
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
-
-### 🤖 Machine Learning & AI
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
-
-### ⚙️ Automation & DevOps for Data
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/-CI/CD-000000?style=flat)
-
-### 📊 Data Visualization, BI & Front-end Data Apps
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white) 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat)
-![Gradio](https://img.shields.io/badge/-Gradio-1CA9C9?style=flat)
-
-
-| Domaine | Compétences & Technologies |
-|---------|---------------------------|
-| 💾 Database Design & Optimization | Relational & NoSQL schema design, query tuning, indexing, normalization |
-| 🔄 ETL & Data Processing | Apache Spark, Kafka, Airflow, data cleaning, data transformation, pipeline orchestration |
-| 🤖 Machine Learning & AI | NLP models, clustering, classification, predictive analytics (Random Forest, Logistic Regression) |
-| ⚙️ Automation & DevOps for Data | Kubernetes, Docker, CI/CD for scalable deployments |
-| 📊 Data Visualization & BI | Tableau, Power BI, dashboard creation, KPI monitoring |
-
 
 - 💾 **Database Design & Optimization** : Relational & NoSQL schema design, query tuning, indexing, normalization  
 - 🔄 **ETL & Data Processing** : Apache Spark, Kafka, Airflow, data cleaning, transformation, pipeline orchestration  
@@ -169,7 +78,12 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 
 </div>
 
-## 🧰 Stack Technique  
+## 🧰 Stack Technique 
+| Rôle | Technologies |
+|------|--------------|
+| **🔹 Data Engineer** | <div align="center"> ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) </div>|
+| **🔹 Data Scientist** |<div align="center"> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![NLP](https://img.shields.io/badge/-NLP-00BFAE?style=flat&logo=databricks&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat&logo=plotly&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FF6F00?style=flat&logo=python&logoColor=white) </div>|
+| **🔹 Autres (Dev & Frameworks)** |<div align="center"> ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat&logo=angularjs&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white) ![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black) ![GlassFish](https://img.shields.io/badge/-GlassFish-FF9900?style=flat&logo=java&logoColor=white) ![WildFly](https://img.shields.io/badge/-WildFly-233A72?style=flat&logo=java&logoColor=white) </div>|
 <div align="center"> 
   
 ### **Data Engineering**  
