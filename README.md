@@ -41,6 +41,19 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 
 ## 📂 Projects Portfolio
 Here are some of my database projects:
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Library Management System** | Complete SQL database design with stored procedures | ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat) |
+| **E-commerce Data Warehouse** | Star schema implementation with ETL processes | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![ETL](https://img.shields.io/badge/-ETL-FF6C37?style=flat) |
+| **Real-time Analytics Dashboard** | MongoDB aggregation pipelines | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **Kafka Pipeline in Big Data Environment** | Real-time data ingestion & processing | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) |
+| **Automating Big Data Apps Deployment in Kubernetes** | CI/CD automation for scalable apps | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
+| **Bib-Readers Project** | Library book tracking system | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) |
+| **Filtrage-Emails Project** | Intelligent email spam/malware filtering system | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-FF6C37?style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat) |
+| **DiabetoWeb Project** | Doctor decision-support tool for diabetes risk | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **Library Management System** | Complete SQL database design with stored procedures | MySQL, SQL |
