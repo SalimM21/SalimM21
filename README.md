@@ -54,6 +54,34 @@ Here are some of my database projects:
 
 ## 🛠 Capabilities
 
+### 💾 Database Design & Optimization
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![NoSQL](https://img.shields.io/badge/-NoSQL-FF6C37?style=flat)
+
+### 🔄 ETL & Data Processing
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=Apache%20Spark&logoColor=white) 
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white) 
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+
+### ⚙️ Automation & DevOps for Data
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/-CI/CD-000000?style=flat)
+
+### 📊 Data Visualization, BI & Front-end Data Apps
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat)
+![Gradio](https://img.shields.io/badge/-Gradio-1CA9C9?style=flat)
+
+
 | Domaine | Compétences & Technologies |
 |---------|---------------------------|
 | 💾 Database Design & Optimization | Relational & NoSQL schema design, query tuning, indexing, normalization |
