@@ -81,9 +81,10 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SalimM21&theme=github-compact)
 
-## 🏆 GitHub Trophies ![GitHub Trophies](https://img.shields.io/badge/-GitHub%20Trophies-233A72?style=flat&logo=github&logoColor=white)
+## 🏆 GitHub Trophies 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SalimM21&theme=flat" alt="GitHub Trophies"/>
 </p>
+![GitHub Trophies](https://img.shields.io/badge/-GitHub%20Trophies-233A72?style=flat&logo=github&logoColor=white)
 
 
