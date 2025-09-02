@@ -80,4 +80,10 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 - 📱 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/salim-majide-231319172/)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SalimM21&theme=github-compact)
-<a align="right" href="https://app.daily.dev/salimmajide"><img src="https://api.daily.dev/devcards/fa26135698e14383b6f87f7fd51dd457.png?r=56b" width="400" alt="Salim MAJIDE's Dev Card"/></a>
+
+<p align="center">
+  <a href="https://app.daily.dev/SalimM21">
+    <img src="https://api.daily.dev/devcards/fa26135698e14383b6f87f7fd51dd457.png?r=56b" width="400" alt="Salim MAJIDE's Dev Card"/>
+  </a>
+</p>
+
