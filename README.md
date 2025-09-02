@@ -83,7 +83,7 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 
 ## 🏆 GitHub Trophies ![GitHub Trophies](https://img.shields.io/badge/-GitHub%20Trophies-233A72?style=flat&logo=github&logoColor=white)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TayebSOUINIYCode&theme=flat&no-frame=false&no-bg=false&margin-w=3" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SalimM21&theme=flat" alt="GitHub Trophies"/>
 </p>
 
 
