@@ -78,15 +78,20 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salim.majide.officiel@gmail.com)
 - 📱 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/salim-majide-231319172/)
+- 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/SalimM21?label=Follow%20Me&style=social)](https://github.com/SalimM21) <img align="right" src="https://komarev.com/ghpvc/?username=SalimM21&label=Profile%20views&color=0e75b6&style=flat" alt="SalimM21" />
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SalimM21&theme=github-compact)
 
 ## 🏆 GitHub Trophies 
+<p align="right">
+  <img src="https://img.shields.io/badge/-GitHub%20Trophies-233A72?style=flat&logo=github&logoColor=white" alt="GitHub Trophies"/>
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SalimM21&theme=flat" alt="GitHub Trophies"/>
 </p>
 
-![GitHub Trophies](https://img.shields.io/badge/-GitHub%20Trophies-233A72?style=flat&logo=github&logoColor=white)
+
 
 
 
