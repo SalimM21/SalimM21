@@ -73,11 +73,15 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 
 <div align="center">
 
-<!-- Stats avec icônes et thème personnalisé -->
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SalimM21&show_icons=true&border=true&include_all_commits=true&count_private=true&cache_seconds=3)
-![GitHub Streak](https://streak-stats.demolab.com/?user=salimM21&hide_border=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SalimM21&theme=github-compact)
+<!-- Stats GitHub et Streak à moitié de la largeur de l'Activity Graph -->
+<img src="https://github-readme-stats.vercel.app/api?username=SalimM21&show_icons=true&border=true&include_all_commits=true&count_private=true&cache_seconds=3" width="400" height="180" />
+<img src="https://streak-stats.demolab.com/?user=salimM21&hide_border=true" width="400" height="180" />
+
+<!-- GitHub Activity Graph complète -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SalimM21&theme=github-compact" width="850" />
+
 </div>
+
 
 <!--
 <div align="center"> 
