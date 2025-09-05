@@ -55,18 +55,6 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 - ⚙️ **Automation & DevOps for Data** : Kubernetes, Docker, CI/CD for scalable deployments  
 - 📊 **Data Visualization & BI** : Tableau, Power BI, dashboard creation, KPI monitoring  
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- Stats avec icônes et thème personnalisé -->
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SalimM21&show_icons=true&border=true&include_all_commits=true&count_private=true&cache_seconds=3)
-![GitHub Streak](https://streak-stats.demolab.com/?user=salimM21&hide_border=true)
-
-</div>
-
 ## 🧰 Stack Technique 
 | speciality | Technologies |
 |:------:|--------------|
@@ -79,8 +67,26 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salim.majide.officiel@gmail.com)
 - 📱 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/salim-majide-231319172/)
 - 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/SalimM21?label=Follow%20Me&style=social)](https://github.com/SalimM21) <img align="right" src="https://komarev.com/ghpvc/?username=SalimM21&label=Profile%20views&color=0e75b6&style=flat" alt="SalimM21" />
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- Stats avec icônes et thème personnalisé -->
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SalimM21&show_icons=true&border=true&include_all_commits=true&count_private=true&cache_seconds=3)
+![GitHub Streak](https://streak-stats.demolab.com/?user=salimM21&hide_border=true)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SalimM21&theme=github-compact)
+</div>
+
+<!--
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SalimM21&theme=algolia&hide_border=true&border_radius=4&card_width=684" alt="GitHub Streak"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalimM21&theme=algolia" alt="Profile Details"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SalimM21&theme=algolia" alt="Stats"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SalimM21&theme=algolia&utcOffset=8" alt="Productive Time"> 
+</div> 
+-->
 
 ## 🏆 GitHub Trophies 
 <p align="right">
