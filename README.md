@@ -101,10 +101,11 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SalimM21&theme=flat&row=1" alt="GitHub Trophies"/>
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SalimM21&theme=flat&column=6" alt="GitHub Trophies"/>
 </p>
+-->
 
 
 
