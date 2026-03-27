@@ -7,24 +7,24 @@
 As a Data Engineer, I create robust and scalable data architectures, optimize queries, and ensure data integrity across large-scale systems. My expertise includes relational & NoSQL databases, real-time data pipelines with Apache Kafka, Big Data processing with Spark, and automated deployments in Kubernetes. I’ve developed intelligent solutions such as an email filtering system for secure communications and DiabetoWeb, a medical decision-support tool for diabetes risk assessment, while delivering efficient solutions for business intelligence and predictive analytics.
 
 ### 🔭 Currently Working On
-- ⚡ Optimized ETL pipeline with **Apache Spark** for real-time IoT analytics  
-- 📑 NLP model to classify **legal documents**  
+-  Optimized ETL pipeline with **Apache Spark** for real-time IoT analytics  
+-  NLP model to classify **legal documents**  
 
 ### 🌱 Learning
-- 🔹 **MLOps** with MLflow and Kubeflow  
-- 🔹 **BigQuery** query optimization  
+-  **MLOps** with MLflow and Kubeflow  
+-  **BigQuery** query optimization  
 
 ### 👯 Collaborating On
-- 📊 Open-source data visualization projects  
-- 🧠 LLM model benchmarks  
+-  Open-source data visualization projects  
+-  LLM model benchmarks  
 
 ### 🤔 Seeking Help With
-- 🚀 Advanced orchestration with **Apache Airflow**  
-- 📦 Feature store implementation  
+-  Advanced orchestration with **Apache Airflow**  
+-  Feature store implementation  
 
 ### 💬 Ask Me About
-- 🧹 Data cleaning with **Pandas**  
-- 📐 Best practices in **data modeling**  
+-  Data cleaning with **Pandas**  
+-  Best practices in **data modeling**  
 
 ---
 
@@ -36,9 +36,9 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 
 | Project | Description | Tech Stack |
 |:---------:|:-------------:|:------------:|
-| **DiabetoWeb** | Web app sécurisée pour aider les médecins à évaluer le risque de diabète, combinant gestion de données et ML | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat) |
-| **Filtrage-Emails** | Système intelligent de détection de spam/malware | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![GridSearchCV](https://img.shields.io/badge/-GridSearchCV-FF6C37?style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat) |
-| **Sentiment Analysis API** | API REST et page web pour analyse de sentiments via Hugging Face | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF6C37?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat) ![Gradio](https://img.shields.io/badge/-Gradio-1CA9C9?style=flat) |
+| **DiabetoWeb** | Web app sécurisée pour aider les médecins à évaluer le risque de diabète, combinant gestion de données et ML | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat) |
+| **Filtrage-Emails** | Système intelligent de détection de spam/malware | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![GridSearchCV](https://img.shields.io/badge/-GridSearchCV-FF6C37?style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat) |
+| **Sentiment Analysis API** | API REST et page web pour analyse de sentiments via Hugging Face | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF6C37?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat) ![Gradio](https://img.shields.io/badge/-Gradio-1CA9C9?style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) |
 | **Big Data Apps Deployment in Kubernetes** | Automatisation du déploiement d’applications Big Data dans Kubernetes | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat) ![Helm](https://img.shields.io/badge/-Helm-0F3D91?style=flat) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-0099F7?style=flat) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **Kafka Pipeline in Big Data Environment** | Création et déploiement d’un pipeline Kafka pour ingestion et traitement en temps réel | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat) ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat) |
 | **REST API + MongoDB (Django ORM + pymongo)** | API REST avec stockage de données MongoDB et WebSockets | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat) |
@@ -49,11 +49,11 @@ As a Data Engineer, I create robust and scalable data architectures, optimize qu
 
 ## 🛠 Capabilities
 
-- 💾 **Database Design & Optimization** : Relational & NoSQL schema design, query tuning, indexing, normalization  
-- 🔄 **ETL & Data Processing** : Apache Spark, Kafka, Airflow, data cleaning, transformation, pipeline orchestration  
-- 🤖 **Machine Learning & AI** : NLP models, clustering, classification, predictive analytics (Random Forest, Logistic Regression)  
-- ⚙️ **Automation & DevOps for Data** : Kubernetes, Docker, CI/CD for scalable deployments  
-- 📊 **Data Visualization & BI** : Tableau, Power BI, dashboard creation, KPI monitoring  
+-  **Database Design & Optimization** : Relational & NoSQL schema design, query tuning, indexing, normalization  
+-  **ETL & Data Processing** : Apache Spark, Kafka, Airflow, data cleaning, transformation, pipeline orchestration  
+-  **Machine Learning & AI** : NLP models, clustering, classification, predictive analytics (Random Forest, Logistic Regression)  
+-  **Automation & DevOps for Data** : Kubernetes, Docker, CI/CD for scalable deployments  
+-  **Data Visualization & BI** : Tableau, Power BI, dashboard creation, KPI monitoring  
 
 ## 🧰 Stack Technique 
 | speciality | Technologies |
