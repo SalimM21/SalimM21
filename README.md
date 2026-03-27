@@ -1,30 +1,56 @@
-# Greetings ✨, I'm Salim MAJIDE 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A2F7&width=435&lines=Database+Wizard+🧙‍♂️;SQL+Specialist+💾;Data+Architect+📊)
+# Greetings ✨, I'm Salim MAJIDE  
 
-## 🙋‍♂ About Me
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A2F7&width=500&lines=Data+Engineer+%26+MLOps+⚙️;Streaming+%26+Big+Data+Expert+📊;Cloud+%26+Scalable+Architectures+☁️)
 
-**Data Enthusiast**  
-As a Data Engineer, I create robust and scalable data architectures, optimize queries, and ensure data integrity across large-scale systems. My expertise includes relational & NoSQL databases, real-time data pipelines with Apache Kafka, Big Data processing with Spark, and automated deployments in Kubernetes. I’ve developed intelligent solutions such as an email filtering system for secure communications and DiabetoWeb, a medical decision-support tool for diabetes risk assessment, while delivering efficient solutions for business intelligence and predictive analytics.
+---
 
-### 🔭 Currently Working On
--  Optimized ETL pipeline with **Apache Spark** for real-time IoT analytics  
--  NLP model to classify **legal documents**  
+## 🙋‍♂️ About Me
 
-### 🌱 Learning
--  **MLOps** with MLflow and Kubeflow  
--  **BigQuery** query optimization  
+**Data Engineer & MLOps Enthusiast 🚀**  
 
-### 👯 Collaborating On
--  Open-source data visualization projects  
--  LLM model benchmarks  
+Passionate about building **scalable, reliable, and production-ready data systems**, I specialize in designing end-to-end data platforms combining **Data Engineering, Machine Learning, and MLOps**.
 
-### 🤔 Seeking Help With
+I have worked on advanced projects such as a **Scoring & Fraud Detection Platform (MLOps)** integrating real-time streaming, ML models, and compliance automation (KYC/AML), as well as **end-to-end ELT pipelines** and **Big Data analytics systems**.
+
+💡 My core expertise includes:
+- Real-time data pipelines (**Apache Kafka, Spark, Airflow**)  
+- MLOps & model lifecycle (**MLflow, Docker, Kubernetes**)  
+- Data quality & governance (Soda Core, monitoring, validation)  
+- Scalable architectures (batch & streaming)  
+
+---
+
+## 🔭 Currently Working On
+-  **Scoring & Fraud Detection Platform (MLOps)**  
+-  Real-time pipelines with **Kafka + Spark Streaming**  
+-  Advanced monitoring & observability (Grafana, Prometheus)  
+
+---
+
+## 🌱 Learning
+-  Advanced **MLOps (MLflow, Kubeflow, Feature Store)**  
+-  Cloud Data Engineering (**GCP / BigQuery optimization**)  
+-  LLM integration in data platforms  
+
+---
+
+## 👯 Collaborating On
+-  Data Engineering & MLOps projects  
+-  Open-source data platforms & analytics tools  
+
+---
+
+## 🤔 Seeking Help With
 -  Advanced orchestration with **Apache Airflow**  
--  Feature store implementation  
+-  Distributed system design & optimization  
 
-### 💬 Ask Me About
--  Data cleaning with **Pandas**  
--  Best practices in **data modeling**  
+---
+
+## 💬 Ask Me About
+-  Data pipelines (Batch & Streaming)  
+-  MLOps & ML lifecycle  
+-  Data modeling & architecture  
+-  Fraud detection & scoring systems  
 
 ---
 
