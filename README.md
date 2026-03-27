@@ -1,12 +1,12 @@
 # Greetings ✨, I'm Salim MAJIDE  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A2F7&width=500&lines=Data+Engineer+%26+MLOps+⚙️;Streaming+%26+Big+Data+Expert+📊;Cloud+%26+Scalable+Architectures+☁️)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A2F7&width=500&lines=Data+Engineer+%26+MLOps;Streaming+%26+Big+Data+Expert;Cloud+%26+Scalable+Architectures)
 
 ---
 
 ## 🙋‍♂️ About Me
 
-**Data Engineer & MLOps Enthusiast 🚀**  
+**Data Engineer & MLOps Enthusiast**  
 
 Passionate about building **scalable, reliable, and production-ready data systems**, I specialize in designing end-to-end data platforms combining **Data Engineering, Machine Learning, and MLOps**.
 
@@ -18,33 +18,23 @@ I have worked on advanced projects such as a **Scoring & Fraud Detection Platfor
 - Data quality & governance (Soda Core, monitoring, validation)  
 - Scalable architectures (batch & streaming)  
 
----
-
 ## 🔭 Currently Working On
 -  **Scoring & Fraud Detection Platform (MLOps)**  
 -  Real-time pipelines with **Kafka + Spark Streaming**  
 -  Advanced monitoring & observability (Grafana, Prometheus)  
-
----
 
 ## 🌱 Learning
 -  Advanced **MLOps (MLflow, Kubeflow, Feature Store)**  
 -  Cloud Data Engineering (**GCP / BigQuery optimization**)  
 -  LLM integration in data platforms  
 
----
-
 ## 👯 Collaborating On
 -  Data Engineering & MLOps projects  
 -  Open-source data platforms & analytics tools  
 
----
-
 ## 🤔 Seeking Help With
 -  Advanced orchestration with **Apache Airflow**  
 -  Distributed system design & optimization  
-
----
 
 ## 💬 Ask Me About
 -  Data pipelines (Batch & Streaming)  
