@@ -1,8 +1,6 @@
 # Greetings ✨, I'm Salim MAJIDE  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A2F7&width=500&lines=Data+Engineer+%26+MLOps;Streaming+%26+Big+Data+Expert;Cloud+%26+Scalable+Architectures)
-
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&speed=50&color=54A2F7&width=700&lines=Database+Wizard+🧙‍♂️;Data+Engineer+%26+MLOps;Big+Data+%26+Streaming+Expert;Cloud+Native+Architectures;Real-time+Data+Pipelines;SQL+%26+Database+Optimization)
 
 ## 🙋‍♂️ About Me
 
